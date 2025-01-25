@@ -235,3 +235,9 @@ _aid-markup_ is a concept that can make it easier for AI agents to perform struc
 This significantly improves how automated systems interact with user interfaces, simplifies writing web-testing scripts and parsing robots, and opens up new possibilities for enhancing accessibility.
 
 Since this document is a **draft**, we invite the community to discuss, test, and further refine the specification based on real use cases.
+
+## Additional. Tools
+
+Currently, I am working on a Chrome extension that will dynamically add aid HTML tags from a knowledge base to websites I have manually annotated.
+
+The markup files will be stored in this repository in the [/markups](./markups) folder.
