@@ -1,0 +1,29 @@
+{
+  "site": "google.com",
+  "pages": [
+    {
+      "page": "/",
+      "selectors": {
+        "#searchform": "aid-type=\"header\"",
+        "#APjFqb": "aid-type=\"interactive\" aid-desc=\"Input for search query\"",
+        ".HZVG1b.Tg7LZd": "aid-type=\"interactive\" aid-desc=\"Start search button\""
+      }
+    },
+    {
+      "page": "/search",
+      "selectors": {
+        "#searchform": "aid-type=\"header\"",
+        "#APjFqb": "aid-type=\"interactive\" aid-desc=\"Input for search query\"",
+        ".HZVG1b.Tg7LZd": "aid-type=\"interactive\" aid-desc=\"Start search button\"",
+        "#rso": "aid-type=\"content\" aid-desc=\"Search results section\"",
+        ".crJ18e": "aid-type=\"nav\" aid-desc=\"Switching search modes\"",
+        ".nPDzT:not(.T3FoJb)": "aid-type=\"interactive\" aid-desc=\"Selecting a search mode\" aid-state=\"done\"",
+        ".nPDzT.T3FoJb": "aid-type=\"interactive\" aid-desc=\"Selecting a search mode\" aid-state=\"idle\"",
+        ".N54PNb.BToiNc": "aid-cnt-type=\"info\" aid-cnt-kind=\"desc\"",
+        ".N54PNb.BToiNc .yuRUbf a:not(.fl)": "aid-type=\"interactive\" aid-desc=\"Follow the link\"",
+        ".AaVjTc": "aid-type=\"nav\" aid-desc=\"Pagination\"",
+        ".AaVjTc a": "aid-type=\"interactive\" aid-desc=\"Go to another page\""
+      }
+    }
+  ]
+}
