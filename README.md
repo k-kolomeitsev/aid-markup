@@ -238,6 +238,8 @@ Since this document is a **draft**, we invite the community to discuss, test, an
 
 ## Additional. Tools
 
-Currently, I am working on a Chrome extension that will dynamically add aid HTML tags from a knowledge base to websites I have manually annotated.
+Chrome browser extension that adds aid-markup (HTML Markup for AI Agents): [LINK](https://github.com/k-kolomeitsev/aid-markup-chrome-extension)
+
+![HTML Markup for AI Agents](https://raw.githubusercontent.com/k-kolomeitsev/aid-markup-chrome-extension/refs/heads/main/example.gif)
 
 The markup files will be stored in this repository in the [/markups](./markups) folder.
