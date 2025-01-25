@@ -1,7 +1,9 @@
 # An HTML Markup Extension for AI Agents (aid-markup)
 
 **Edition**: Draft
-**Author**: Konstantin Kolomeitsev  
+
+**Author**: Konstantin Kolomeitsev
+
 **Date**: January 25, 2025
 
 ## Summary
